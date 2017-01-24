@@ -58,9 +58,10 @@
   <ItemGroup>
     <Folder Include="Properties" />
     <Folder Include="tables" />
+    <Folder Include="security" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="tables\surface_keys.sql" />
+    <Build Include="tables\writeboards.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="writeboard.db.refactorlog" />
