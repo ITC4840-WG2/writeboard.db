@@ -66,4 +66,7 @@
   <ItemGroup>
     <RefactorLog Include="writeboard.db.refactorlog" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="publish.tst.xml" />
+  </ItemGroup>
 </Project>
