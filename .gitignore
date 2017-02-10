@@ -5,3 +5,6 @@
 /.vs/writeboard.db/v14/.suo
 /writeboard.db.sqlproj.user
 /writeboard.db.dbmdl
+obj/
+bin/
+*.jfm
