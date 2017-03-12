@@ -68,5 +68,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="publish.xml" />
+    <None Include="writeboard.db.publish.xml" />
   </ItemGroup>
 </Project>

@@ -7,4 +7,18 @@
     <Property Name="ParentElementType" Value="SqlTable" />
     <Property Name="NewName" Value="KeyID" />
   </Operation>
+  <Operation Name="Rename Refactor" Key="22d06cb6-fc55-4d44-9c39-72f927a0032a" ChangeDateTime="03/12/2017 22:52:36">
+    <Property Name="ElementName" Value="[dbo].[writeboards].[WriteBoardDataURL]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[writeboards]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="WriteBoardState" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="ee387fed-aa87-4238-87dd-bd683312c9d6" ChangeDateTime="03/12/2017 22:52:59">
+    <Property Name="ElementName" Value="[dbo].[writeboards].[WriteBoardSize]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[writeboards]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="WriteBoardWidth" />
+  </Operation>
 </Operations>
